@@ -1,5 +1,7 @@
 # small-portfolio 
 
+![Screenshot](src/assets/screenshot1.png)
+
 ## Description
 This is a small portfolio made with [Vuejs](https://v3.vuejs.org/).
 It has links to differents social media. It's responsive and very minimal. The code is avaible on [GitHub](https://github.com/CapoStudios/small-portfolio) and it's Open Source.
