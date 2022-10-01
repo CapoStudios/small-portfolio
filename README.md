@@ -1,6 +1,6 @@
 # small-portfolio 
 
-<img width="600" src="https://github.com/CapoStudios/small-portfolio/blob/mocho/src/assets/screenshot1.png">
+<img width="400" src="https://github.com/CapoStudios/small-portfolio/blob/mocho/src/assets/screenshot1.png">
 
 ## Description
 This is a small portfolio made with [Vuejs](https://v3.vuejs.org/).
