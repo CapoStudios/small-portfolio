@@ -31,6 +31,11 @@ html, body {
   background-color: #191919;
 }
 
+::selection {
+  color: #191919;
+  background-color: #e9e41d;
+}
+
 #app {
   font-family: 'Oswald', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
