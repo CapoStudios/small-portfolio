@@ -11,26 +11,13 @@ GitHub Page [Here](https://capostudios.github.io/small-portfolio/)
 
 And As always Happy Coding! 👨‍💻💪 
 
+## Project Setup
 
-## Project setup
-```
+``` bash
+# install dependencies
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
+# serve with hot reload at localhost:8080
+npm run dev
+# build for production with minification
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
